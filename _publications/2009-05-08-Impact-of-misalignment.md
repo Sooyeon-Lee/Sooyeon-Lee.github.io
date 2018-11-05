@@ -6,10 +6,9 @@ excerpt: 'We examine the effect of a market pricing policy designed to attract h
 date: 2009-05-08
 venue: 'International Conference on Auctions, Market Mechanisms and Their Applications'
 paperurl: 'https://link.springer.com/chapter/10.1007%2F978-3-642-03821-1_7'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Sohn, Jung-woo, Sooyeon Lee, and Tracy Mullen. "Impact of misalignment of trading agent strategy across multiple markets." International Conference on Auctions, Market Mechanisms and Their Applications. Springer, Berlin, Heidelberg, 2009.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://link.springer.com/chapter/10.1007%2F978-3-642-03821-1_7)
 
-Recommended citation: Sohn, Jung-woo, Sooyeon Lee, and Tracy Mullen. "Impact of misalignment of trading agent strategy across multiple markets." International Conference on Auctions, Market Mechanisms and Their Applications. Springer, Berlin, Heidelberg, 2009..
+Recommended citation: Sohn, Jung-woo, Sooyeon Lee, and Tracy Mullen. "Impact of misalignment of trading agent strategy across multiple markets." International Conference on Auctions, Market Mechanisms and Their Applications. Springer, Berlin, Heidelberg, 2009.
