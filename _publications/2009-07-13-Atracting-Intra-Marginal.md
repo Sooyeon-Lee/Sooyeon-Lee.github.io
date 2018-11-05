@@ -8,10 +8,10 @@ and in accordance with economic theory, markets using registration fee policies 
 We build a simple trader market selection game-theoretic model and simulation to determine how the Nash equilibrium (NE) changes across two markets when a registration fee is charged in one of them.'
 date: 2009-07-13
 venue: 'IJCAI-09 Workshop on Trading Agent Design and Analysis (TADA-09)'
-paperurl: 'http://tada2009.ecs.soton.ac.uk/papers/tada09_submission_16.pdf'
+paperurl: 'https://sooyeon2229.github.io/files/tada09_submission_16.pdf'
 citation: 'Sohn, Jung-woo, Sooyeon Lee, and Tracy Mullen. "Attracting intra-marginal traders across multiple markets." Workshop on Trading Agent Design and Analysis (TADA 2009). 2009.'
 ---
 
-[Download paper here](https://link.springer.com/chapter/10.1007%2F978-3-642-03821-1_7)
+[Download paper here](https://sooyeon2229.github.io/files/tada09_submission_16.pdf)
 
 Recommended citation: Sohn, Jung-woo, Sooyeon Lee, and Tracy Mullen. "Attracting intra-marginal traders across multiple markets." Workshop on Trading Agent Design and Analysis (TADA 2009). 2009.
