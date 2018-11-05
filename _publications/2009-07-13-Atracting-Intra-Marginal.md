@@ -14,4 +14,4 @@ citation: 'Sohn, Jung-woo, Sooyeon Lee, and Tracy Mullen. "Attracting intra-marg
 
 [Download paper here](https://sooyeon2229.github.io/files/tada09_submission_16.pdf)
 
-Recommended citation: Sohn, Jung-woo, Sooyeon Lee, and Tracy Mullen. "Attracting intra-marginal traders across multiple markets." Workshop on Trading Agent Design and Analysis (TADA 2009). 2009.
+Recommended citation: Sohn, Jung-woo, **Sooyeon Lee**, and Tracy Mullen. "Attracting intra-marginal traders across multiple markets." Workshop on Trading Agent Design and Analysis (TADA 2009). 2009.

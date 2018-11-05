@@ -11,4 +11,4 @@ citation: 'Yuan, Chien Wen, Benjamin V. Hanrahan, Sooyeon Lee, and John M. Carro
 
 [Download paper here](https://sooyeon2229.github.io/files/2015_Designing.pdf')
 
-Recommended citation: 'Yuan, Chien Wen, Benjamin V. Hanrahan, Sooyeon Lee, and John M. Carroll. "Designing Equal Participation in Informal Learning for People with Visual Impairment." IxD&A 27 (2015): 93-106.'
+Recommended citation: Yuan, Chien Wen, Benjamin V. Hanrahan, **Sooyeon Lee**, and John M. Carroll. "Designing Equal Participation in Informal Learning for People with Visual Impairment." IxD&A 27 (2015): 93-106.

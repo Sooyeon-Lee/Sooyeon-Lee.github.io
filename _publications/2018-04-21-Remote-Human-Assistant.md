@@ -11,4 +11,4 @@ citation: 'Sooyeon Lee, Jordan Beck, Xiying Wang, Mary Beth Rosson, John M. Carr
 
 [Download paper here](https://sooyeon2229.github.io/files/2018_Remote_Assistant.pdf)
 
-Recommended citation: 'Sooyeon Lee, Jordan Beck, Xiying Wang, Mary Beth Rosson, John M. Carrol. “Remote Human Assistant Technology: Classroom Learning Accessibility for Children with Visual Impairment”. Position paper for CHI 2018 workshop on “Inclusive Educational Tehcnologies: Emerging Opportunities for People with Visual Impairments”.'
+Recommended citation: **Sooyeon Lee**, Jordan Beck, Xiying Wang, Mary Beth Rosson, John M. Carrol. “Remote Human Assistant Technology: Classroom Learning Accessibility for Children with Visual Impairment”. Position paper for CHI 2018 workshop on “Inclusive Educational Tehcnologies: Emerging Opportunities for People with Visual Impairments”.

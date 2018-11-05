@@ -11,4 +11,4 @@ citation: 'Han, Kyungsik, Richard Wirth, Benjamin V. Hanrahan, Jiawei Chen, Sooy
 
 [Download paper here](https://sooyeon2229.github.io/files/2016_Being.pdf)
 
-Recommended citation: 'Han, Kyungsik, Richard Wirth, Benjamin V. Hanrahan, Jiawei Chen, Sooyeon Lee, and John M. Carroll. "Being connected to the local community through a Festival mobile application." IConference 2016 Proceedings (2016).'
+Recommended citation: Han, Kyungsik, Richard Wirth, Benjamin V. Hanrahan, Jiawei Chen, **Sooyeon Lee**, and John M. Carroll. "Being connected to the local community through a Festival mobile application." IConference 2016 Proceedings (2016).

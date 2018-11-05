@@ -11,4 +11,4 @@ citation: 'Sohn, Jung-woo, Sooyeon Lee, and Tracy Mullen. "Impact of misalignmen
 
 [Download paper here](https://sooyeon2229.github.io/files/Sohn2009_Chapter_ImpactOfMisalignmentOfTradingA.pdf)
 
-Recommended citation: Sohn, Jung-woo, Sooyeon Lee, and Tracy Mullen. "Impact of misalignment of trading agent strategy across multiple markets." International Conference on Auctions, Market Mechanisms and Their Applications. Springer, Berlin, Heidelberg, 2009.
+Recommended citation: Sohn, Jung-woo, **Sooyeon Lee**, and Tracy Mullen. "Impact of misalignment of trading agent strategy across multiple markets." International Conference on Auctions, Market Mechanisms and Their Applications. Springer, Berlin, Heidelberg, 2009.

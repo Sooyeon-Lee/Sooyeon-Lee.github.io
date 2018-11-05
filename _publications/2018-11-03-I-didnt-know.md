@@ -11,4 +11,4 @@ citation: 'Chien Wen Yuan, Benjamin V. Hanrahan, Sooyeon Lee, Mary Beth Rosson, 
 
 [Download paper here](https://sooyeon2229.github.io/files/2018_I_didnt.pdf)
 
-Recommended citation: 'Chien Wen Yuan, Benjamin V. Hanrahan, Sooyeon Lee, Mary Beth Rosson, John M. Carroll. “I Didnt Know that You Knew I Knew: Collaborative Shopping Practices between People with Visual Impairment and People with Vision”. CSCW 2018.'
+Recommended citation: Chien Wen Yuan, Benjamin V. Hanrahan, **Sooyeon Lee**, Mary Beth Rosson, John M. Carroll. “I Didnt Know that You Knew I Knew: Collaborative Shopping Practices between People with Visual Impairment and People with Vision”. CSCW 2018.

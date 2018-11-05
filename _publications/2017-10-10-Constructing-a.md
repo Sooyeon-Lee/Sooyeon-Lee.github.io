@@ -11,4 +11,4 @@ citation: 'Yuan, Chien Wen, Benjamin V. Hanrahan, Sooyeon Lee, Mary Beth Rosson,
 
 [Download paper here](https://sooyeon2229.github.io/files/2016_Constructing.pdf)
 
-Recommended citation: Yuan, Chien Wen, Benjamin V. Hanrahan, Sooyeon Lee, Mary Beth Rosson, and John M. Carroll. “Constructing a holistic view of shopping with people with visual impairment: a participatory design approach.” Universal Access in the Information Society (2017): 1-14.
+Recommended citation: Yuan, Chien Wen, Benjamin V. Hanrahan, **Sooyeon Lee**, Mary Beth Rosson, and John M. Carroll. “Constructing a holistic view of shopping with people with visual impairment: a participatory design approach.” Universal Access in the Information Society (2017): 1-14.

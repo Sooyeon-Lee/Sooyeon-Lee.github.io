@@ -11,4 +11,4 @@ citation: 'Sooyeon Lee, Chien Wen Yuan, Benjamin V. Hanrahan, Mary Beth Rosson, 
 
 [Download paper here](https://sooyeon2229.github.io/files/2017_reaching.pdf)
 
-Recommended citation: 'Sooyeon Lee, Chien Wen Yuan, Benjamin V. Hanrahan, Mary Beth Rosson, John M. Carroll. “Reaching Out: Investigating Different Modalities to Help People with Visual Impairments Acquire Items”. ASSETS ’17 Proceedings of the 19th International ACM SIGACCESS Conference on Computers and Accessibility Pages 389-390.'
+Recommended citation: **Sooyeon Lee**, Chien Wen Yuan, Benjamin V. Hanrahan, Mary Beth Rosson, John M. Carroll. “Reaching Out: Investigating Different Modalities to Help People with Visual Impairments Acquire Items”. ASSETS ’17 Proceedings of the 19th International ACM SIGACCESS Conference on Computers and Accessibility Pages 389-390.

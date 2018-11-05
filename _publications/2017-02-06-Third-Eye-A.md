@@ -11,4 +11,4 @@ citation: 'Peter A. Zientara, Sooyeon Lee, Rorry Brenner, Henry Smith, Laurent I
 
 [Download paper here](https://sooyeon2229.github.io/files/2017_third.pdf)
 
-Recommended citation: 'Peter A. Zientara, Sooyeon Lee, Rorry Brenner, Henry Smith, Laurent Itti, Mary Beth Rosson, John M. Carroll, Kevin M. Irick, Vijaykrishnan Narayanan, et al. "Third Eye: a shopping assistant for the visually impaired." Computer 50.2 (2017): 16-24. IEEE Computer special issue on “Human Augmentation”'
+Recommended citation: Peter A. Zientara, **Sooyeon Lee**, Rorry Brenner, Henry Smith, Laurent Itti, Mary Beth Rosson, John M. Carroll, Kevin M. Irick, Vijaykrishnan Narayanan, et al. "Third Eye: a shopping assistant for the visually impaired." Computer 50.2 (2017): 16-24. IEEE Computer special issue on “Human Augmentation”
