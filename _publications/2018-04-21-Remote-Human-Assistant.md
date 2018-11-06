@@ -6,9 +6,7 @@ excerpt: It is very important for child with visual impairment (CVI) to learn ho
 date: 2018-04-21
 venue: 'CHI 2018 workshop on “Inclusive Educational Tehcnologies: Emerging Opportunities for People with Visual Impairments”'
 paperurl: 'https://sooyeon2229.github.io/files/2018_Remote_Assistant.pdf'
-citation: 'Sooyeon Lee, Jordan Beck, Xiying Wang, Mary Beth Rosson, John M. Carrol. “Remote Human Assistant Technology: Classroom Learning Accessibility for Children with Visual Impairment”. Position paper for CHI 2018 workshop on “Inclusive Educational Tehcnologies: Emerging Opportunities for People with Visual Impairments”.'
+citation: **Sooyeon Lee**, Jordan Beck, Xiying Wang, Mary Beth Rosson, John M. Carrol. “Remote Human Assistant Technology: Classroom Learning Accessibility for Children with Visual Impairment”. Position paper for CHI 2018 workshop on “Inclusive Educational Tehcnologies: Emerging Opportunities for People with Visual Impairments”.
 ---
 
 [Download paper here](https://sooyeon2229.github.io/files/2018_Remote_Assistant.pdf)
-
-Recommended citation: **Sooyeon Lee**, Jordan Beck, Xiying Wang, Mary Beth Rosson, John M. Carrol. “Remote Human Assistant Technology: Classroom Learning Accessibility for Children with Visual Impairment”. Position paper for CHI 2018 workshop on “Inclusive Educational Tehcnologies: Emerging Opportunities for People with Visual Impairments”.
