@@ -6,8 +6,5 @@ excerpt: "We examine the effect of a market pricing policy designed to attract h
 date: 2009-05-08
 venue: 'International Conference on Auctions, Market Mechanisms and Their Applications'
 paperurl: 'https://sooyeon2229.github.io/files/Sohn2009_Chapter_ImpactOfMisalignmentOfTradingA.pdf'
+citation: 'Sohn, Jung-woo, <b>Sooyeon Lee</b>, and Tracy Mullen. "Impact of misalignment of trading agent strategy across multiple markets." International Conference on Auctions, Market Mechanisms and Their Applications. Springer, Berlin, Heidelberg, 2009.'
 ---
-
-[Download paper here](https://sooyeon2229.github.io/files/Sohn2009_Chapter_ImpactOfMisalignmentOfTradingA.pdf)
-
-Recommended citation: Sohn, Jung-woo, Sooyeon Lee, and Tracy Mullen. "Impact of misalignment of trading agent strategy across multiple markets." International Conference on Auctions, Market Mechanisms and Their Applications. Springer, Berlin, Heidelberg, 2009.

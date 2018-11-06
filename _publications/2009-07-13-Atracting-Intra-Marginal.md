@@ -9,8 +9,5 @@ We build a simple trader market selection game-theoretic model and simulation to
 date: 2009-07-13
 venue: 'IJCAI-09 Workshop on Trading Agent Design and Analysis (TADA-09)'
 paperurl: 'https://sooyeon2229.github.io/files/tada09_submission_16.pdf'
+citation: 'Sohn, Jung-woo, <b>Sooyeon Lee</b>, and Tracy Mullen. "Attracting intra-marginal traders across multiple markets." Workshop on Trading Agent Design and Analysis (TADA 2009). 2009.'
 ---
-
-[Download paper here](https://sooyeon2229.github.io/files/tada09_submission_16.pdf)
-
-Recommended citation: Sohn, Jung-woo, **Sooyeon Lee**, and Tracy Mullen. "Attracting intra-marginal traders across multiple markets." Workshop on Trading Agent Design and Analysis (TADA 2009). 2009.

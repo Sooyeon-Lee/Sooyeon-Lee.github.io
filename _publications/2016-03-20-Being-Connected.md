@@ -6,7 +6,5 @@ excerpt: In this paper we report our investigation into how using and interactin
 date: 2016-03-20
 venue: 'IConference 2016 Proceedings'
 paperurl: 'https://sooyeon2229.github.io/files/2016_Being.pdf'
-citation: 'Han, Kyungsik, Richard Wirth, Benjamin V. Hanrahan, Jiawei Chen, Sooyeon Lee, and John M. Carroll. "Being connected to the local community through a Festival mobile application." IConference 2016 Proceedings (2016).' 
+citation: 'Han, Kyungsik, Richard Wirth, Benjamin V. Hanrahan, Jiawei Chen, <b>Sooyeon Lee</b>, and John M. Carroll. "Being connected to the local community through a Festival mobile application." IConference 2016 Proceedings (2016).' 
 ---
-
-[Download paper here](https://sooyeon2229.github.io/files/2016_Being.pdf)

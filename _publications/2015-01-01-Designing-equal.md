@@ -6,9 +6,6 @@ excerpt: Informal learning opportunities that complement formal education with d
 date: 2015-01-01
 venue: 'Interaction Design and Architecture(s)'
 paperurl: 'https://sooyeon2229.github.io/files/2015_Designing.pdf'
-citation: 'Yuan, Chien Wen, Benjamin V. Hanrahan, Sooyeon Lee, and John M. Carroll. "Designing Equal Participation in Informal Learning for People with Visual Impairment." IxD&A 27 (2015): 93-106.'
+citation: 'Yuan, Chien Wen, Benjamin V. Hanrahan, <b>Sooyeon Lee</b>, and John M. Carroll. "Designing Equal Participation in Informal Learning for People with Visual Impairment." IxD&A 27 (2015): 93-106.'
 ---
 
-[Download paper here](https://sooyeon2229.github.io/files/2015_Designing.pdf')
-
-Recommended citation: Yuan, Chien Wen, Benjamin V. Hanrahan, **Sooyeon Lee**, and John M. Carroll. "Designing Equal Participation in Informal Learning for People with Visual Impairment." IxD&A 27 (2015): 93-106.
