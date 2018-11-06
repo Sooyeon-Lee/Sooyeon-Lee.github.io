@@ -1,7 +1,7 @@
 ---
 title: "Attracting intra-marginal traders across multiple markets"
 collection: publications
-permalink: /publication/2009-07-13-Atracting-Intra-Marginal.md
+permalink: /publication/2009-07-13-Atracting-Intra-Marginal
 excerpt: 'High-valued traders, or intra-marginal traders, can give a market higher transaction rates and generate more profit
 both for the traders and for the market maker. In previous CAT tournaments with competing market specialists,
 and in accordance with economic theory, markets using registration fee policies attract intra-marginal traders and drive out extra-marginal traders.

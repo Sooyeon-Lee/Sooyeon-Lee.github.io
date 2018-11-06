@@ -1,7 +1,7 @@
 ---
 title: "Third Eye: A Shopping Assistant for the Visually Impaired"
 collection: publications
-permalink: /publication/2017-02-06-Third-Eye-A.md
+permalink: /publication/2017-02-06-Third-Eye-A
 excerpt: Through a combination of wearable cameras, hardware accelerators, and algorithms, a vision-based automatic shopping assistant allows users with limited or no sight to select products from grocery shelves. 
 date: 2017-02-06
 venue: 'IConference 2016 Proceedings'
