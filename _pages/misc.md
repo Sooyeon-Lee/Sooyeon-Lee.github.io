@@ -13,7 +13,7 @@ Here's some additional information about me.
 
 
 
-### Design
+### Designs
 
 
 {% for post in site.misc %}
