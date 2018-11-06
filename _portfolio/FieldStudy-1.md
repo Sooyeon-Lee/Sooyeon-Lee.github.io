@@ -11,6 +11,8 @@ title: "Field Study 1: Constructing a holistic view of shopping with people with
   * It is much more than getting things on a list
   * Active engagement, social learning, and “shopping”
 
+---
+
 excerpt: "<tr><td style="width: 1000px"><div class="auto-style3">Photos From Study</div><img width=130 height=130 src="Field1_1.png" border="0"/>
 <img width=130 height=130 src="Field1_2.png" border="0"/>
 <img width=130 height=130 src="Field1_3.png" border="0"/>
