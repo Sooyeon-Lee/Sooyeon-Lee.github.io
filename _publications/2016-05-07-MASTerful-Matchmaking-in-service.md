@@ -6,7 +6,7 @@ excerpt: Timebanking is a growing type of peer-to-peer service exchange, but is 
 date: 2016-05-07
 venue: 'CHI 16 Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems'
 paperurl: 'https://sooyeon2229.github.io/files/2017_MASTERful.pdf'
-citation: Jung, Hyunggu, Victoria Bellotti, Afsaneh Doryab, Dean Leitersdorf, Jiawei Chen, Benjamin V. Hanrahan, **Sooyeon Lee**, Dan Turner, Anind K. Dey, and John M. Carroll. "MASTerful Matchmaking in Service Transactions: Inferred Abilities, Needs and Interests versus Activity Histories." Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems. ACM, 2016.
+citation: 'Jung, Hyunggu, Victoria Bellotti, Afsaneh Doryab, Dean Leitersdorf, Jiawei Chen, Benjamin V. Hanrahan, Sooyeon Lee, Dan Turner, Anind K. Dey, and John M. Carroll. "MASTerful Matchmaking in Service Transactions: Inferred Abilities, Needs and Interests versus Activity Histories." Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems. ACM, 2016.'
 ---
 
 [Download paper here](https://sooyeon2229.github.io/files/2017_MASTERful.pdf)

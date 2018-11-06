@@ -6,7 +6,7 @@ excerpt: Through a combination of wearable cameras, hardware accelerators, and a
 date: 2017-02-06
 venue: 'IConference 2016 Proceedings'
 paperurl: 'https://sooyeon2229.github.io/files/2017_third.pdf'
-citation: Peter A. Zientara, **Sooyeon Lee**, Rorry Brenner, Henry Smith, Laurent Itti, Mary Beth Rosson, John M. Carroll, Kevin M. Irick, Vijaykrishnan Narayanan . "Third Eye: a shopping assistant for the visually impaired." Computer 50.2 (2017): 16-24. IEEE Computer special issue on “Human Augmentation”
+citation: 'Peter A. Zientara, Sooyeon Lee, Rorry Brenner, Henry Smith, Laurent Itti, Mary Beth Rosson, John M. Carroll, Kevin M. Irick, Vijaykrishnan Narayanan . "Third Eye: a shopping assistant for the visually impaired." Computer 50.2 (2017): 16-24. IEEE Computer special issue on “Human Augmentation”'
 ---
 
 [Download paper here](https://sooyeon2229.github.io/files/2017_third.pdf)
