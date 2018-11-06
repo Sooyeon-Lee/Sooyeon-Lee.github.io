@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* UX Design Research Intern at Uber Inc. San Francisco, CA. Jun. 2017 - Aug. 2017
+* UX Design Research Intern at **Uber Inc**. San Francisco, CA. Jun. 2017 - Aug. 2017
   * Conducted UX design researches for building a foundation for accessibility design and development for Uber services and products
   * Identified and analyzed accessibility issues, challenges, and needs for the Uber users with different types of disabilities
   * Designed and conducted UX researches for developing accessibility for deaf/hard of hearing users
