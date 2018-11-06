@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * B.S. in IST, The Penn State University with Highest Distinction.
 * Ph.D in IST, The Penn State University, 2014 - present
 
-Work experience
+## Work experience
 ======
 * UX Design Research Intern at **Uber Inc**. San Francisco, CA. Jun. 2017 - Aug. 2017
   * Conducted UX design researches for building a foundation for accessibility design and development for Uber services and products
@@ -40,7 +40,7 @@ Work experience
 * Quantitative Social Science Initiative Lab – Penn State, University Park, PA. Summer 2007
   * Research Assistant 
   
-Research Project
+## Research Project
 ======
 * [Visual Cortext on Silicon](http://www.cse.psu.edu/research/visualcortexonsilicon.expedition/) project, an NSF Expedition in Computing: I am investigating a feasibility of smart camera prosthetic devices that assist people with visual impairments for their grocery shopping.
   * Lead and manage all accessibility research projects, including coordinating between the development and design teams.
@@ -65,7 +65,7 @@ Research Project
 	* Meet Up With Your Friends This Weekend, Courtesy Of The Arts Fest App
 
 
-Publications
+## Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
