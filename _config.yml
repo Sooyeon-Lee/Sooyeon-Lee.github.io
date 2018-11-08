@@ -229,10 +229,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _misc
+  # _hobby
   - scope:
       path: ""
-      type: misc
+      type: hobby
     values:
       layout: single
       author_profile: true
