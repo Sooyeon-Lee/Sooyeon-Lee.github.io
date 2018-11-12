@@ -10,5 +10,7 @@ redirect_from:
 
 I am currently a fifth year Ph.D. student in the school of [Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/).
 My advisor is Professor John M. Carroll and I am working at Laboratory for Computer Supported Collaboration and Learning.
-My research interests include accessibility, interactive design, and community informatics in the area of Human Computer Interaction
-Before doing my PhD, I received my B.S. in Information Sciences and Technology from Pennsylvania State University and worked for Minitab for several years.
+My research interests include accessibility, interactive design, and community informatics in the area of Human Computer Interaction.
+Specifically, my research has been focusing on investigating and designing smart camera prosthetics and an interactive dialog interface for people with visual impairments.
+In addition, I have an experience of industry research on designing accessibility for deaf/hard of hearing drivers at Uber Inc.
+I also have 5+ years of consumer software product development experience at Minitab Inc.
