@@ -8,5 +8,3 @@ venue: 'CHI 16 Proceedings of the 2016 CHI Conference on Human Factors in Comput
 paperurl: 'https://Sooyeon-Lee.github.io/files/2017_MASTERful.pdf'
 citation: 'Jung, Hyunggu, Victoria Bellotti, Afsaneh Doryab, Dean Leitersdorf, Jiawei Chen, Benjamin V. Hanrahan, <b>Sooyeon Lee</b>, Dan Turner, Anind K. Dey, and John M. Carroll. "MASTerful Matchmaking in Service Transactions: Inferred Abilities, Needs and Interests versus Activity Histories." Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems. ACM, 2016.'
 ---
-
-[Download paper here](https://Sooyeon-Lee.github.io/files/2017_MASTERful.pdf)
