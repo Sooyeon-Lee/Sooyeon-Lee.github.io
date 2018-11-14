@@ -29,7 +29,7 @@ of disabilities
 teams
   * Designing multi-modality interactive user interface with AI/Computer vision collaborators for developing visual prosthetics interactions for people
 with visual impairments 
-  * valuating with iterative UX researches including experimental lab studies
+  * Evaluating with iterative UX researches including experimental lab studies
 and mixed research methods
   * Designing and conducting extensive ethnographic studies for understanding people with visual impairments
 for developing design requirements and gaining insights
@@ -41,14 +41,6 @@ for developing design requirements and gaining insights
   * Performed graphics/GUI and localization testing
   * Developed unit testing using C# and Python in agile software development environment
   
-## Research Project
-* [Visual Cortext on Silicon](http://www.cse.psu.edu/research/visualcortexonsilicon.expedition/) project, an NSF Expedition in Computing: I am investigating a feasibility of smart camera prosthetic devices that assist people with visual impairments for their grocery shopping.
-  * Lead and manage all accessibility research projects, including coordinating between the development and design teams.
-  * Designing multi-modality interactive user interface for developing visual prosthetics interactions for people with visual impairments.
-  * Designing and developing interface prototypes and evaluating them with conducting iterative UX researches including experimental lab studies and mixed research methods.
-  * Collaborating with the local people with visual impairments and with an industry partner.
-  * Penn State uses machine vision to give the blind a ‘Third Eye’: LiveBIG 2016-17
-
 ## SKILLS
  * Research: Accessibility research, Experimental design, User centered design, Ethnographic study,
 	Observation, Interview, Focus group, Prototyping, Qualitative and quantitative data analysis
