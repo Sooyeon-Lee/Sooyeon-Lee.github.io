@@ -27,8 +27,9 @@ of disabilities
   * Web Page [http://www.cse.psu.edu/research/visualcortexonsilicon.expedition/index.html](http://www.cse.psu.edu/research/visualcortexonsilicon.expedition/index.html)
   * Managing all accessibility research projects, including coordinating between the development and design
 teams
-  * Designing multi-modality interactive user interface for developing visual prosthetics interactions for people
-with visual impairments and evaluating with iterative UX researches including experimental lab studies
+  * Designing multi-modality interactive user interface with AI/Computer vision collaborators for developing visual prosthetics interactions for people
+with visual impairments 
+  * valuating with iterative UX researches including experimental lab studies
 and mixed research methods
   * Designing and conducting extensive ethnographic studies for understanding people with visual impairments
 for developing design requirements and gaining insights
