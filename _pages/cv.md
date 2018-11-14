@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 * Ph.D in IST, The Pennsylvania State University, 2014 - present
-* B.S. in IST, The Pennsylvania State University with Highest Distinction, 2004 - 2008.
+* B.S. in IST, The Pennsylvania State University with Highest Distinction, 2005 - 2008.
 
 ## Research experience
 * UX Design Research Intern at **Uber Inc**. San Francisco, CA. Jun. 2017 - Aug. 2017
