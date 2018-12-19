@@ -1,5 +1,5 @@
 ---
-title: "Three papers submitted as a <b>first author</b> to The ACM CHI 2019"
+title: "Understanding and Designing for Deaf or Hard of Hearing Drivers on Uber" 
 collection: publications
 permalink: /publication/2019-05-04-three-papers
 date: 2019-05-04
