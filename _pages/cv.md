@@ -14,12 +14,6 @@ redirect_from:
 * B.S. in IST, The Pennsylvania State University with Highest Distinction, 2005 - 2008.
 
 ## Research experience
-* UX Design Research Intern at **Uber Inc**. San Francisco, CA. Jun. 2017 - Aug. 2017
-  * Led UX design research projects to build a foundation for accessible service and product design
-  * Identified and analyzed accessibility issues, challenges, and needs for the Uber users with different types
-of disabilities
-  * Designed and conducted UX researches for developing accessibility for deaf/hard of hearing users
-  * The research work has been submitted to ACM CHI Conference 2019 (Under review)
 
 * CSCL Lab, IST, at Penn State, University Park, PA. Sept. 2014 - Present
   * Research Assistant - Advisor/professor John M. Carroll
@@ -33,6 +27,13 @@ with visual impairments
 and mixed research methods
   * Designing and conducting extensive ethnographic studies for understanding people with visual impairments
 for developing design requirements and gaining insights
+
+* UX Design Research Intern at **Uber Inc**. San Francisco, CA. Jun. 2017 - Aug. 2017
+  * Led UX design research projects to build a foundation for accessible service and product design
+  * Identified and analyzed accessibility issues, challenges, and needs for the Uber users with different types
+of disabilities
+  * Designed and conducted UX researches for developing accessibility for deaf/hard of hearing users
+  * The research work has been submitted to ACM CHI Conference 2019 (Under review)
 
 ## Industry experience
 * Quality Assurance Analyst at Minitab Inc., State College, PA. June 2008 – Aug 2014
