@@ -18,7 +18,7 @@ redirect_from:
 * CSCL Lab, IST, at Penn State, University Park, PA. Sept. 2014 - Present
   * Research Assistant - Advisor/professor John M. Carroll
   * Visual Cortex on Silicon Project
- * Web Page [http://www.cse.psu.edu/research/visualcortexonsilicon.expedition/index.html] (http://www.cse.psu.edu/research/visualcortexonsilicon.expedition/index.html)
+ * Web Page [http://www.cse.psu.edu/research/visualcortexonsilicon.expedition/index.html(http://www.cse.psu.edu/research/visualcortexonsilicon.expedition/index.html)
   
     * Lead all accessibility research projects, manage team members including junior PhD/master’s students,
 undergraduate students, and postdoc fellows, and coordinate between the development and design teams
