@@ -37,7 +37,8 @@ developing design requirements and gaining insights
   * Identified and analyzed accessibility issues, challenges, and needs for the Uber users with different types
 of disabilities
   * Designed and conducted UX researches for developing accessibility for deaf/hard of hearing users
-  * The research work has been submitted to ACM CHI Conference 2019 (Under review)
+  * The research work has been conditionally accepted to ACM CHI Conference 2019 and will be presented
+at the conference
 
 ## Industry experience
 * Quality Assurance Analyst at Minitab Inc., State College, PA. June 2008 – Aug 2014
