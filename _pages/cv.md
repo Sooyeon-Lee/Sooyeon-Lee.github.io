@@ -28,6 +28,18 @@ and mixed research methods
   * Designing and conducting extensive ethnographic studies for understanding people with visual impairments
 for developing design requirements and gaining insights
 
+  * Lead all accessibility research projects, manage team members including junior PhD/master’s students,
+undergraduate students, and postdoc fellows, and coordinate between the development and design teams
+  * Design a multi-modality (auditory and tactile) interactive user interface with AI/Computer vision collab-
+orators for developing visual prosthetics interactions for people with visual impairments
+  * Evaluate with iterative UX research including experimental lab studies and mixed research methods
+  * Design and conduct extensive ethnographic studies for understanding people with visual impairments for
+developing design requirements and gaining insights
+  * Collaborate with the local persons with visual impairments and with an industry partner, Aira (aira.io)
+
+* Community Informatics Project
+  * Worked on designing a mobile ride sharing application that provided local community ride exchange and delivery services and collaborated with researchers at Palo Alto Research Center and Carnegie Mellon University
+
 * UX Design Research Intern at **Uber Inc**. San Francisco, CA. Jun. 2017 - Aug. 2017
   * Led UX design research projects to build a foundation for accessible service and product design
   * Identified and analyzed accessibility issues, challenges, and needs for the Uber users with different types
