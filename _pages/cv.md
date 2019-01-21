@@ -17,16 +17,16 @@ redirect_from:
 
 * CSCL Lab, IST, at Penn State, University Park, PA. Sept. 2014 - Present
   * Research Assistant - Advisor/professor John M. Carroll
- * Visual Cortex on Silicon Project
-   * Web Page [http://www.cse.psu.edu/research/visualcortexonsilicon.expedition/index.html](http://www.cse.psu.edu/research/visualcortexonsilicon.expedition/index.html)
-   * Lead all accessibility research projects, manage team members including junior PhD/master’s students,
+  * Visual Cortex on Silicon Project
+    * Web Page [http://www.cse.psu.edu/research/visualcortexonsilicon.expedition/index.html] (http://www.cse.psu.edu/research/visualcortexonsilicon.expedition/index.html)
+    * Lead all accessibility research projects, manage team members including junior PhD/master’s students,
 undergraduate students, and postdoc fellows, and coordinate between the development and design teams
-   * Design a multi-modality (auditory and tactile) interactive user interface with AI/Computer vision collab-
+    * Design a multi-modality (auditory and tactile) interactive user interface with AI/Computer vision collab-
 orators for developing visual prosthetics interactions for people with visual impairments
-   * Evaluate with iterative UX research including experimental lab studies and mixed research methods
-   * Design and conduct extensive ethnographic studies for understanding people with visual impairments for
+    * Evaluate with iterative UX research including experimental lab studies and mixed research methods
+    * Design and conduct extensive ethnographic studies for understanding people with visual impairments for
 developing design requirements and gaining insights
-   * Collaborate with the local persons with visual impairments and with an industry partner, Aira (aira.io)
+    * Collaborate with the local persons with visual impairments and with an industry partner, Aira (aira.io)
 
  * Community Informatics Project
   * Worked on designing a mobile ride sharing application that provided local community ride exchange and delivery services and collaborated with researchers at Palo Alto Research Center and Carnegie Mellon University
