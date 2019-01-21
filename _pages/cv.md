@@ -19,15 +19,6 @@ redirect_from:
   * Research Assistant - Advisor/professor John M. Carroll
   * Visual Cortex on Silicon Project
   * Web Page [http://www.cse.psu.edu/research/visualcortexonsilicon.expedition/index.html](http://www.cse.psu.edu/research/visualcortexonsilicon.expedition/index.html)
-  * Managing all accessibility research projects, including coordinating between the development and design
-teams
-  * Designing multi-modality interactive user interface with AI/Computer vision collaborators for developing visual prosthetics interactions for people
-with visual impairments 
-  * Evaluating with iterative UX researches including experimental lab studies
-and mixed research methods
-  * Designing and conducting extensive ethnographic studies for understanding people with visual impairments
-for developing design requirements and gaining insights
-
   * Lead all accessibility research projects, manage team members including junior PhD/master’s students,
 undergraduate students, and postdoc fellows, and coordinate between the development and design teams
   * Design a multi-modality (auditory and tactile) interactive user interface with AI/Computer vision collab-
