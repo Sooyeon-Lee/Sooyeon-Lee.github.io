@@ -29,8 +29,8 @@ orators for developing visual prosthetics interactions for people with visual im
 developing design requirements and gaining insights
      * Collaborate with the local persons with visual impairments and with an industry partner, Aira (aira.io)
 
- * Community Informatics Project
-  * Worked on designing a mobile ride sharing application that provided local community ride exchange and delivery services and collaborated with researchers at Palo Alto Research Center and Carnegie Mellon University
+  * Community Informatics Project
+    * Worked on designing a mobile ride sharing application that provided local community ride exchange and delivery services and collaborated with researchers at Palo Alto Research Center and Carnegie Mellon University
 
 * UX Design Research Intern at **Uber Inc**. San Francisco, CA. Jun. 2017 - Aug. 2017
   * Led UX design research projects to build a foundation for accessible service and product design
