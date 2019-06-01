@@ -51,7 +51,7 @@ of disabilities
 	Observation, Interview, Focus group, Prototyping, Qualitative and quantitative data analysis
 	Participatory design, Survey design, Scenario based design
  * Technical: Java, Python, C#, C++, SQL, HTML, Minitab, SPSS
- * Business: IT Project Management, Problem-based solutions, Bilingual (Korean/English)
+ * Business: IT Project Management, Problem-based solutions, Bilingual (English/Korean)
 
 ## Publications
   <ul>{% for post in site.publications reversed %}
