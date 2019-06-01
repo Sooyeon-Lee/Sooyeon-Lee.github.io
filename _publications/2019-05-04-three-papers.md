@@ -1,6 +1,6 @@
 ---
 title: "Understanding and Designing for Deaf or Hard of Hearing Drivers on Uber" 
-collection: 
+collection: publications
 permalink: /publication/2019-05-04-three-papers
 excerpt: 'It is .'
 date: 2019-05-04
