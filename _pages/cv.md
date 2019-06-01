@@ -16,7 +16,7 @@ redirect_from:
 ## Research experience
 
 * CSCL Lab, IST, at Penn State, University Park, PA. Sept. 2014 - Present
-  * Research Assistant - Advisor/professor John M. Carroll
+  * Research Assistant - Advisor/Professor John M. Carroll
   * Visual Cortex on Silicon Project
   * Web Page [http://www.cse.psu.edu/research/visualcortexonsilicon.expedition/index.html](http://www.cse.psu.edu/research/visualcortexonsilicon.expedition/index.html)
   
