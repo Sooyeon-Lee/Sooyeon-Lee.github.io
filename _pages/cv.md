@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Ph.D in IST, The Pennsylvania State University, 2014 - present
-* B.S. in IST, The Pennsylvania State University with Highest Distinction, 2005 - 2008.
+* PhD in Information Sciences and Technology, The Pennsylvania State University, 2014 - present
+* B.S. in Information Sciences and Technology, The Pennsylvania State University with Highest Distinction, 2005 - 2008
 
 ## Research experience
 
