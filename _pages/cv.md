@@ -46,7 +46,7 @@ of disabilities
   * Performed graphics/GUI and localization testing
   * Developed unit testing using C# and Python in agile software development environment
   
-## SKILLS
+## Skills
  * Research: Accessibility research, Experimental design, User centered design, Ethnographic study,
 	Observation, Interview, Focus group, Prototyping, Qualitative and quantitative data analysis
 	Participatory design, Survey design, Scenario based design
