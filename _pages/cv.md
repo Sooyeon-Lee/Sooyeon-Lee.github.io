@@ -32,8 +32,7 @@ developing design requirements and gaining insights
   * Community Informatics Project
     * Worked on designing a mobile ride sharing application that provided local community ride exchange and delivery services and collaborated with researchers at Palo Alto Research Center and Carnegie Mellon University
 
-* Google, Mountain View, CA May 2019 - Aug. 2019 
-	* User Experience Research Intern
+* Google, User Experience Research Intern                                  Mountain View, CA May 2019 - Aug. 2019 
 	* Conducted secondary research to understand inclusive design approach/practice of other re- searchers/industries and identify stakeholders’ needs for the inclusive hardware product design
 	* Analyzed and extended current inclusive hardware design framework and guidelines and created an improved version
 	* Designed and delivered an information architecture for making the inclusive hardware design guidelines actionable for hardware product managers, designers, and developers
